@@ -2,7 +2,7 @@
 
 The application begins with the home.java file
 
-In mySQLConnect file
+In MySQLConnect.java file
 
 in this string ( jdbc:mysql://localhost:XXXX/databasename?characterEncoding=latin1", "username", "password" )
 
